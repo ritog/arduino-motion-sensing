@@ -1,6 +1,17 @@
+
+https://github.com/ritog/arduino-motion-sensing/assets/58001482/9fa568f0-ad93-4525-ae99-ed7a7129e41d
 # Motion Sensing using Arduino Uno
 
 A very simple microcontroller project that detects motion and uses an LED to indicate the motion. Also logs the output to Serial Monitor inside the Arduino IDE.
+
+What it does: when you move anything near the sensor, an LED light blinks and a timestamp of the movement is logged whenever it is detected with helpful message.
+
+
+
+https://github.com/ritog/arduino-motion-sensing/assets/58001482/2de68907-cc59-4248-9f4b-bc291a2f42a2
+
+![IMG_20231001_230437_786](https://github.com/ritog/arduino-motion-sensing/assets/58001482/cb3317be-13ea-46b8-a386-a3926da83e96)
+
 
 This is an educational project from where beginners in microcontrollers can learn and experiment from.
 
