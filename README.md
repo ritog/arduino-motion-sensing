@@ -5,9 +5,7 @@ A very simple microcontroller project that detects motion and uses an LED to ind
 This is an educational project from where beginners in microcontrollers can learn and experiment from.
 
 ___
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" height="50" /><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="50" /><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" alt="Linux" height="50" />
 
 ### 🛠️ Hardware Needed
 
