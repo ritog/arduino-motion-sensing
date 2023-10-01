@@ -1,5 +1,3 @@
-
-https://github.com/ritog/arduino-motion-sensing/assets/58001482/9fa568f0-ad93-4525-ae99-ed7a7129e41d
 # Motion Sensing using Arduino Uno
 
 A very simple microcontroller project that detects motion and uses an LED to indicate the motion. Also logs the output to Serial Monitor inside the Arduino IDE.
@@ -66,6 +64,17 @@ For me it was `/dev/ttyACM0`. You have to fix it according to the error you see 
 ```bash
 sudo chmod a+rw /dev/ttyACM0
 ```
+
+### Picture Gallery
+
+![IMG_20231001_232406_523](https://github.com/ritog/arduino-motion-sensing/assets/58001482/c39407af-f4b6-4b12-9994-524e2e456a5c)
+![IMG_20231001_232336_038](https://github.com/ritog/arduino-motion-sensing/assets/58001482/ff1287c6-0f63-4ad7-bbfb-45d8c9d104fc)
+![IMG_20231001_232231_977](https://github.com/ritog/arduino-motion-sensing/assets/58001482/bda6a8b2-5f02-4cd0-9ec8-3e5f07ab35ac)
+![IMG_20231001_232110_391](https://github.com/ritog/arduino-motion-sensing/assets/58001482/d5ef0de8-cc43-40dc-9161-a990f4959ef8)
+
+
+### Acknowledgement
+Thanks to my cuz Soumyadipta Ghosh for bringing the hardware to my house- for me to test. 😒😸
 
 ### 📝 Resources
 1. [How HC-SR501 PIR Sensor Works & Interface It With Arduino](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/)
