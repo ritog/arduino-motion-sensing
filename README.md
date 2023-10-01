@@ -67,10 +67,9 @@ sudo chmod a+rw /dev/ttyACM0
 
 ### Picture Gallery
 
-![IMG_20231001_232406_523](https://github.com/ritog/arduino-motion-sensing/assets/58001482/c39407af-f4b6-4b12-9994-524e2e456a5c)
-![IMG_20231001_232336_038](https://github.com/ritog/arduino-motion-sensing/assets/58001482/ff1287c6-0f63-4ad7-bbfb-45d8c9d104fc)
-![IMG_20231001_232231_977](https://github.com/ritog/arduino-motion-sensing/assets/58001482/bda6a8b2-5f02-4cd0-9ec8-3e5f07ab35ac)
-![IMG_20231001_232110_391](https://github.com/ritog/arduino-motion-sensing/assets/58001482/d5ef0de8-cc43-40dc-9161-a990f4959ef8)
+| 1 | 2 | 3 | 4 |
+| - | - | - | - |
+| ![IMG_20231001_232406_523](https://github.com/ritog/arduino-motion-sensing/assets/58001482/c39407af-f4b6-4b12-9994-524e2e456a5c) | ![IMG_20231001_232336_038](https://github.com/ritog/arduino-motion-sensing/assets/58001482/ff1287c6-0f63-4ad7-bbfb-45d8c9d104fc) | ![IMG_20231001_232231_977](https://github.com/ritog/arduino-motion-sensing/assets/58001482/bda6a8b2-5f02-4cd0-9ec8-3e5f07ab35ac) | ![IMG_20231001_232110_391](https://github.com/ritog/arduino-motion-sensing/assets/58001482/d5ef0de8-cc43-40dc-9161-a990f4959ef8) |
 
 
 ### Acknowledgement
