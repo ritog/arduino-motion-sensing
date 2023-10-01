@@ -61,3 +61,4 @@ sudo chmod a+rw /dev/ttyACM0
 ### 📝 Resources
 1. [How HC-SR501 PIR Sensor Works & Interface It With Arduino](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/)
 2. [Arduino LED – Complete Tutorial](https://roboticsbackend.com/arduino-led-complete-tutorial/)
+3. [millis()](https://www.arduino.cc/reference/en/language/functions/time/millis/)
