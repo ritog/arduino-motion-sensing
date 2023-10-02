@@ -20,11 +20,11 @@ void setup() {
  
 void loop() {
   unsigned long timestamp = millis() / 1000;        // read time in seconds
-  val = digitalRead(INPUT_PIN;                      // read input value
+  val = digitalRead(INPUT_PIN);			     // read input value
   
   if (val == HIGH)                                  // check if the input is HIGH
   {            
-    digitalWrite(LED_PIN, HIGH;                     // turn LED ON
+    digitalWrite(LED_PIN, HIGH);                    // turn LED ON
 	
     if (pirState == LOW) {
       Serial.println("Motion detected!");           // print on output change
